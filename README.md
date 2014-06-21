@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/codeformuenster/whatsmydistrict.png?label=ready&title=Ready)](https://waffle.io/codeformuenster/whatsmydistrict)
 # What's My District?
 
 See an example at [whatsmydistrict.org](http://whatsmydistrict.org/).

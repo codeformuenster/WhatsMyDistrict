@@ -60,7 +60,7 @@ GEM
       dotenv (>= 0.7)
       thor (>= 0.13.6)
     fssm (0.2.10)
-    geocoder (1.1.8)
+    geocoder (1.6.1)
     gssapi (1.0.3)
       ffi (>= 1.0.1)
     gyoku (1.1.1)
@@ -173,7 +173,7 @@ DEPENDENCIES
   compass-rails (~> 1.0.3)
   dotenv (~> 0.10.0)
   foreman (~> 0.63.0)
-  geocoder (~> 1.1.8)
+  geocoder (~> 1.6.1)
   haml
   pg (~> 0.15.1)
   puma (~> 2.0.1)
@@ -183,3 +183,6 @@ DEPENDENCIES
   sinatra
   sinatra-twitter-bootstrap
   unicorn (~> 4.6.2)
+
+BUNDLED WITH
+   1.17.3

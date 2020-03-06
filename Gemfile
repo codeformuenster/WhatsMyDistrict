@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'sinatra', require: 'sinatra/base'
-gem 'puma', "~> 2.0.1", group: :development
+gem 'puma', '~> 3.12.4', group: :development
 gem 'sequel', "~> 3.48.0"
 gem 'pg', "~> 0.15.1"
 gem 'geocoder', "~> 1.1.8"

@@ -11,7 +11,7 @@ gem 'sinatra-twitter-bootstrap'
 gem 'compass-rails', '~> 1.0.3'
 gem 'unicorn', "~> 4.6.2"
 gem "airbrake", "~> 3.1.12"
-gem "berkshelf", "~> 2.0.14"
+gem "berkshelf", "~> 4.2.3"
 gem 'foreman', '~> 0.63.0'
 gem "dotenv", "~> 0.10.0"
 gem 'rack-flash3'
